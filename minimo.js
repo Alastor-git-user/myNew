@@ -8,4 +8,4 @@ function min(x,y){
 }
 console.log(min(-1,7))
 // texto que sera eliminado por checkout
-//mas texto inutil
+//mas texto inutilgit status
