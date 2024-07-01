@@ -29,3 +29,5 @@ function breakDown(n){ //funcion extrae los elementos en un array [a,b,c,d,...]
 }
 
 console.log(lookFor(92,1))
+
+//texto inutil
