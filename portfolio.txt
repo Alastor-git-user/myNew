@@ -1,0 +1,38 @@
+*I almost always drink milk for breakfast
+
+*Gabriela hates fish
+
+*My sister has tuna for lunch, she's a nurse 
+
+*When I was 5 my father was gone!
+
+*I love reading books about philosophic
+
+Hi, I want remember you to about my birthday, it's on 19th of July, I will be 35 years old.
+Where shall we go?. What about Yamato, it has japanese food, like sushi. We'll have a bottle of sparkling mineral watter,
+sushi chicken salad, mix salad, avocado and so on. Futhermore it has pop music,and rock music.
+So, let's meet at the restaurant at 6:00 pm.
+See you there.
+
+Correciones
++ My sister has tuna for lunch, she's a nurse 
+
++ When I was 5 my father was gone!
+
++ I love reading books about philosophic
+
+- Hi, I want remember you to about my birthday, it's on 19th of July, I will be 35 years old.
++ Hi, I want to* remember you about my birthday, it's on July the 19th*, I will be 35 years old.
+
++ Where shall we go?. What about Yamato, it has japanese food, like sushi.
+
+- We'll have a bottle of sparkling mineral watter,
+sushi chicken salad, mix salad, avocado and so on.
++ We could ask for a sparkling mineral water*, sushi, chicken salad, mix salad, avocado and more.
+
++ Futhermore it has pop music, and rock music.
+
+- So, let's meet at the restaurant at 6:00 pm.
++ So, what do you think? In case you're ok with it, let's meet at the restaurant at 6:00 pm.
+
++ See you there.
